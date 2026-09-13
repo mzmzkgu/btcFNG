@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-12T09:15:04.774004",
-  "date": "2026-09-12",
+  "updated_at": "2026-09-13T09:15:04.347170",
+  "date": "2026-09-13",
   "fng": {
-    "value": 63,
+    "value": 61,
     "status": "Greed"
   },
-  "mdd_pct": 40.79,
+  "mdd_pct": 40.88,
   "ath_krw": 177854395,
-  "current_price_krw": 105310000,
+  "current_price_krw": 105145000,
   "avg_price_krw": 108027228,
-  "unrealized_pct": -2.52,
+  "unrealized_pct": -2.67,
   "parts_used": 60,
   "division": 60,
   "realized_profit_krw": 0,
   "total_invested_krw": 329991.28625000006,
-  "cumulative_profit_krw": -8300,
-  "cumulative_profit_pct": -2.52,
+  "cumulative_profit_krw": -8804,
+  "cumulative_profit_pct": -2.67,
   "action_taken": false,
   "action_message": "관망"
 }
