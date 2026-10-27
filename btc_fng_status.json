@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-10-26T09:15:06.006334",
-  "date": "2026-10-26",
+  "updated_at": "2026-10-27T09:15:06.250214",
+  "date": "2026-10-27",
   "fng": {
-    "value": 50,
+    "value": 48,
     "status": "Neutral"
   },
-  "mdd_pct": 39.72,
+  "mdd_pct": 39.88,
   "ath_krw": 177854395,
-  "current_price_krw": 107217000,
+  "current_price_krw": 106933000,
   "avg_price_krw": 108027228,
-  "unrealized_pct": -0.75,
+  "unrealized_pct": -1.01,
   "parts_used": 60,
   "division": 60,
   "realized_profit_krw": 10475,
   "total_invested_krw": 329991.28625000006,
-  "cumulative_profit_krw": 8990,
-  "cumulative_profit_pct": 2.72,
+  "cumulative_profit_krw": 8469,
+  "cumulative_profit_pct": 2.57,
   "action_taken": false,
   "action_message": "관망"
 }
